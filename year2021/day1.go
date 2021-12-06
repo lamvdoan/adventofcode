@@ -1,2 +1,9 @@
-package year2021
+package main
 
+import (
+	"fmt"
+)
+func main() {
+	fmt.Println("testing")
+
+}
